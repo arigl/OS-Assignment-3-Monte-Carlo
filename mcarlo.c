@@ -16,6 +16,9 @@
    References:
    - Random number generation from prompt 
    - Ishan pthreads calculation
+   
+   Recieved help from:
+   - Tristan Chilvers 
 */
 
 #include <math.h>
